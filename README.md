@@ -1,14 +1,20 @@
 # MVM²: Mathematical Reasoning Verification System
 
-[![Gradio Demo](https://img.shields.io/badge/Gradio-Demo-blue)](YOUR_GRADIO_LINK)
-[![IEEE Paper](https://img.shields.io/badge/Paper-IEEE-red)](paper.pdf)
+[![Demo](https://img.shields.io/badge/Gradio-Demo-blue)](YOUR_GRADIO_URL)
+[![Paper](https://img.shields.io/badge/Paper-IEEE-red)](MAJOR_PROJECT_PAPER_I-6.pdf)
 
-Multi-Modal Multi-Model system with OCR + 4 LLM agents + SymPy verification.
+Neuro-symbolic framework: OCR + 4 LLM agents + SymPy verification.
 
-## Demo
-Upload math image → Get verified answer + confidence!
+## Features
+- Handwritten/printed math images
+- Multi-agent consensus (SymPy, Gemini, GPT-4, Llama3)
+- OCR confidence propagation
+- Step-level hallucination detection
 
-## Run Local
+## Live Demo
+[Try MVM²](YOUR_GRADIO_LINK)
+
+## Setup
 ```bash
 pip install -r requirements.txt
 python app.py
