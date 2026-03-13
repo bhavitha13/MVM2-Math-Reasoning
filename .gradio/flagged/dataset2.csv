@@ -1,0 +1,46 @@
+Upload Math Problem Image,MVM2 Results,timestamp
+.gradio\flagged\Upload Math Problem Image\eeb5a2c7a89ede1abef5\math_problem1.png,"'
+<div style=""font-family: 'Segoe UI', sans-serif; padding: 20px; max-width: 800px; margin: 0 auto;"">
+    <h1 style=""color: #2c3e50; text-align: center;"">🧮 MVM² Math Solver</h1>
+    <p style=""text-align: center; color: #7f8c8d;"">Multi-Agent Verification System (IEEE Paper Prototype)</p>
+    
+    <div style=""background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+                color: white; padding: 20px; border-radius: 15px; text-align: center; margin-bottom: 20px;"">
+        <h2 style=""margin: 0 0 10px 0;"">🎯 FINAL ANSWER</h2>
+        <div style=""background: rgba(255,255,255,0.2); padding: 15px; 
+                    border-radius: 10px; font-size: 28px; font-weight: bold;"">
+            Processing...
+        </div>
+    </div>
+    
+    <div style=""display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 20px 0;"">
+        <div style=""padding: 15px; background: #e8f4fd; border-radius: 10px; text-align: center;"">
+            <h4 style=""color: #2980b9; margin: 0 0 8px 0;"">OCR Confidence</h4>
+            <div style=""font-size: 22px; font-weight: bold;"">N/A</div>
+        </div>
+        <div style=""padding: 15px; background: #d5f4e6; border-radius: 10px; text-align: center;"">
+            <h4 style=""color: #27ae60; margin: 0 0 8px 0;"">Agent Consensus</h4>
+            <div style=""font-size: 22px; font-weight: bold;"">N/A</div>
+        </div>
+        <div style=""padding: 15px; background: #fdf2e9; border-radius: 10px; text-align: center;"">
+            <h4 style=""color: #e67e22; margin: 0 0 8px 0;"">Final Confidence</h4>
+            <div style=""font-size: 22px; font-weight: bold;"">N/A</div>
+        </div>
+    </div>
+    
+    <details style=""margin-top: 20px;"">
+        <summary style=""padding: 12px; background: #f8f9fa; border: 1px solid #dee2e6; 
+                        border-radius: 8px; cursor: pointer; font-weight: 500;"">
+            Full Pipeline Details (click to expand)
+        </summary>
+        <div style=""background: #2d3748; color: #e2e8f0; padding: 20px; 
+                    border-radius: 8px; margin-top: 10px; font-family: monospace; 
+                    font-size: 13px; max-height: 400px; overflow-y: auto;"">
+            <pre>  File ""C:\Users\yarag\MVM2 project\main.py"", line 54
+    print(""\n"" + ""=""*50)
+IndentationError: unexpected indent
+</pre>
+        </div>
+    </details>
+</div>
+        ",2026-03-13 20:27:04.595299
